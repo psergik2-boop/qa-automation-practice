@@ -17,7 +17,7 @@ Collection of my automation scripts and learning projects in Quality Assurance.
 - **Reporting:** Allure Report
 - **Version Control:** Git, GitHub
 
-## How to Run
+## How to reproduce
 
 Clone this repository:
 ​```bash
